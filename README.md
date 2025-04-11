@@ -18,6 +18,7 @@ frontend where the customer can see the dashboard to interact and see the insigh
 On top of that it has a library called Dash plotly to build interactive dashboard with a little bit of configuration. 
 
 # 5. Demo
+https://youtu.be/iNzjZ_P-7GU
 
 
 
