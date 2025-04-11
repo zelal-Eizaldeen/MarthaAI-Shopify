@@ -1,0 +1,12 @@
+fastapi
+numpy
+pandas
+uvicorn
+pydantic
+scikit-learn
+facebook-business
+python-dotenv
+matplotlib
+plotly
+jinja2
+dash
